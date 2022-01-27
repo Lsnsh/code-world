@@ -1,0 +1,21 @@
+{
+  "name": "code-world",
+  "version": "1.0.0",
+  "description": "我的代码世界，汇集我的博客文章中的一些示例代码的地方，同时也是我的游乐场和实验室。",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lsnsh/code-world.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lsnsh/code-world/issues"
+  },
+  "homepage": "https://github.com/Lsnsh/code-world#readme"
+}
